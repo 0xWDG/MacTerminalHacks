@@ -7,4 +7,4 @@ Type the following commands in the `Terminal` (copy-paste is also an option)
     defaults write com.apple.Maps ShowFakeiPhoneInPushToDevice -bool true
 
 # Demo
-<img src="https://www.wdgwv.com/logo.png">
+<img src="https://raw.githubusercontent.com/wdg/MacTerminalHacks/master/Assets/Maps.png">
